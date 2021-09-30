@@ -14,4 +14,5 @@ Tento repozitář obsahuje podklady a cvičení pro 4. lekci kurzu React od Czec
 ## Podmíněné zobrazení
 
 - [Cvičení 4 - Řidiči](./cviceni-04/README.md)
+- [Cvičení 5 - Žárovka](./cviceni-05/README.md)
 

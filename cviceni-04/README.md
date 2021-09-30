@@ -17,5 +17,10 @@ Jako výchozí bod pro tento příklad použije,e hotový kód z předchozího C
 
 	![Může řídit](can-drive.png) ![Nemůže řídit](cant-drive.png)
 
-	Jako adresy obrázků můžeš použít:
-
+	Obrázky si můžeš stáhnout a zkopírovat do projektu nebo je do stránky napojit přímo z internetu pomocí následujících adres:
+	```
+	https://raw.githubusercontent.com/Czechitas-React-podklady/React-lekce-04/main/cviceni-04/can-drive.png
+	```
+	```
+	https://raw.githubusercontent.com/Czechitas-React-podklady/React-lekce-04/main/cviceni-04/cant-drive.png
+	```
