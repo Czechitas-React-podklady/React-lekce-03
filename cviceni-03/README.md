@@ -14,9 +14,9 @@ Vytvoř v Reactu komponentu pro zobrazování kontaktů.
 	Komponenta by měla zobrazit údaje zhruba v takovéto struktuře:
 	```html
 	<div class="contact">
-		<h2 class="name">Alena Nováková</h2>
-		<p class="job">učitelka</p>
-		<p class="info">27 let, Brno</p>
+		<h2 class="contact__name">Alena Nováková</h2>
+		<p class="contact__job">učitelka</p>
+		<p class="contact__info">27 let, Brno</p>
 	</div>
 	```
 

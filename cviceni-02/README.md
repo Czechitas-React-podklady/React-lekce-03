@@ -9,7 +9,7 @@ Vytvoř v Reactu stránku, která bude zobrazovat různé datumy.
 	- `month` - řetězec s názvem měsíce (např. `červen`)
 	- `year` - řetězec s číslem roku (např. `2021`)
 
-	Komponenta by měla zobrazit datum ve formátu `16. červen 2021`. Každou položku datumu zabal do elementu `span` nebo `div` a každé přidej vlastní CSS třídu, abys mohla jednotlivé části data nestylovat.
+	Komponenta by měla zobrazit datum ve formátu `16. červen 2021`. Každou část datumu (den, měsíc, rok) zabal do elementu `span` nebo `div` a každé přidej vlastní CSS třídu, abys mohla jednotlivé části data nestylovat.
 
 1. Vytvoř komponentu `App` a umísti do ní třikrát komponentu `Date`, pokaždé s jiným datumem.
 

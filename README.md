@@ -1,6 +1,10 @@
-# React - lekce 4
+# React - lekce 3
 
-Tento repozitář obsahuje podklady a cvičení pro 4. lekci kurzu React od Czechitas.
+Tento repozitář obsahuje podklady a cvičení pro 3. lekci kurzu React od Czechitas.
+
+## Podklady pro výklad
+
+- [ZIP s obrázky]()
 
 ## Komponenty s props
 

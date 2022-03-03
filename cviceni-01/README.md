@@ -26,7 +26,7 @@
 	</main>
 	```
 
-	I tato komponenta bude mít jednu prop s názvem `content`, ve které se do komponenty bude předávat obsah, který se doplní jako text odstavce.
+	Tato komponenta bude mít jednu prop s názvem `content`, ve které se do komponenty bude předávat obsah, který se doplní jako text odstavce.
 
 1. Jako poslední vyrob komponentu `Footer`, jejíž obsah bude podobně jednoduchý, jako u předchozích komponent:
 
@@ -38,10 +38,8 @@
 
 	Komponenta bude mít dvě props s názvem `author` a `year`, ve které bude jméno autora a rok uvedený za copyrightem.
 
-1. Přidej všechny tři vytvořené komponenty do komponenty `App`, aby se v naší aplikaci na stránce zobrazila hlavička, hlavní obsah a patička pod sebou.
+1. Nainmportuj a přidej všechny tři vytvořené komponenty do komponenty `App`, aby se v naší aplikaci na stránce zobrazila hlavička, hlavní obsah a patička pod sebou.
 
-1. Komponentu `App` pomocí funkce `render` vykresli do stránky.
+1. Ověř si, že se všechny `props` správně propsaly do jednotlivých komponent.
 
-1. Ověř si, že se všechny `props` správně propsaly do jednotlivých komponent-
-
-1. Pokud máš čas a chuť, vyrob jednoduchý CSS, aby aplikace lépe vypadala. Nezapomeň CSS připojit do stránky.
+1. Pokud máš čas a chuť, vyrob jednoduché CSS, aby aplikace lépe vypadala. Nezapomeň CSS naimportovat do stránky do stránky.
