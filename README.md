@@ -4,7 +4,7 @@ Tento repozitář obsahuje podklady a cvičení pro 3. lekci kurzu React od Czec
 
 ## Podklady pro výklad
 
-- [ZIP s obrázky]()
+- [ZIP s obrázky](https://github.com/Czechitas-React-podklady/React-lekce-03/raw/main/podklady-pro-vyklad/obrazky.zip)
 
 ## Komponenty s props
 
